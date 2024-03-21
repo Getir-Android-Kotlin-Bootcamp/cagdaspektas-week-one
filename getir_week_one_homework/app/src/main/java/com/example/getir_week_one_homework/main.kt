@@ -1,6 +1,6 @@
 
 package com.example.getir_week_one_homework
-//TODO sayfa 66= Patika ekibi tarafından bakılacak ana kısım 68de kaldım
+//TODO sayfa 66= Patika ekibi tarafından bakılacak ana kısım burası
 fun main() {
     //sayfa 9
     println("Sayfa9= 9 nolu sayfanın örneğiyim.")
